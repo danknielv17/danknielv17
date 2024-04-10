@@ -1,7 +1,11 @@
-- Hi, I’m @danknielv17
-- 
-- Mail under grade : daniel.valenzuela.m@ug.uchile.cl
+Hi, I’m @danknielv17
+- Computer Science Engineering in process
+- Mail undergraduate: daniel.valenzuela.m@ug.uchile.cl
 - Mail dcc: dsvalenz@dcc.uchile.cl
+
+<h1>
+  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/045/633/original/Coding_Cat.gif?1662445143" width="240px"/>
+</h1>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
