@@ -1,6 +1,7 @@
 Hi, I’m @danknielv17
 - Computer Science Engineering student
 - Estudiante de Ingeniería Civil en Computación
+- Universidad de Chile - dcc
 - Mail dcc: dsvalenz@dcc.uchile.cl
 - Mail undergraduate: daniel.valenzuela.m@ug.uchile.cl
 
